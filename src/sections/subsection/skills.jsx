@@ -85,14 +85,14 @@ function Skills() {
     githubLink: "https://www.github.com/D-Redouane", // Replace with your actual GitHub link
     imagePaths: {
       points: "./img/shapes/points4.png",
-      about: "./img/about.png",
+      about: "./img/Main-image.png",
     },
   };
 
 
   return (
     <>
-      <div className="section" id="skills">
+      <div className="section" id="Skills">
           <div className="section-header">
             <h3 className="title" data-title="What I Know">Skills</h3>
           </div>

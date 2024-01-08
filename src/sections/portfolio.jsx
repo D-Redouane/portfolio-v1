@@ -49,9 +49,9 @@ function Portfolio() {
     { 
       category: 'webdev', 
       imageSrc: './img/portfolio/viva.jpg', 
-      title: 'Viva API' , 
+      title: 'Design picture' , 
       builtwith: 'Laravel (Lumen)', 
-      class:"fab fa-github" ,
+      class:"fab fa-linkedin" ,
       link:"https://github.com/D-Redouane/vivapp" 
     },
     { 
