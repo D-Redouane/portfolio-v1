@@ -26,7 +26,7 @@ function App() {
     setIsServicesRoute(currentPath === '/Services');
   }, []);
 
-  const isSinglePage = true
+  const isSinglePage = false
 
   return (
     <>
